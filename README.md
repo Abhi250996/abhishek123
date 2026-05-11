@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=1E3A8A&height=200&section=header&text=Abhishek%20Sharma&fontSize=70&animation=fadeIn&fontColor=F8FAFC" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=1E3A8A&height=250&section=header&text=Abhishek%20Sharma&fontSize=80&animation=fadeIn&fontColor=F8FAFC" />
 
-  ### 📱 Senior Mobile Application Developer | Flutter Expert | AI Enthusiast
-  **4+ Years of Experience in Building Scalable Enterprise & AI-Driven Mobile Ecosystems**
+  ### 📱 Senior Mobile Application Developer | Flutter & AI Expert
+  **4+ Years of Experience | 27+ Production Applications Delivered**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-sharma-bb0ab128b)
   [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishek-77d4a.web.app/)
@@ -12,79 +12,103 @@
 
 ---
 
-### 👨‍💻 Professional Profile
-
-Currently a **Junior Consultant at Jaypee Group (JILIT)**, I specialize in the full **SDLC** of cross-platform applications. With a foundation in **Clean Architecture** and **Agile methodologies**, I am now bridging the gap between mobile interfaces and **Artificial Intelligence**.
-
-- 🔭 **Current Focus:** Integrating AI-powered chatbots, recommendation engines, and workflow automation into Flutter apps.
-- 🏗️ **Core Strength:** Designing robust iOS/Android architectures with **Dart**, **BLoC**, and **GetX**.
-- ☁️ **Backend Sync:** Expert in **Firebase** ecosystem and complex **RESTful API** integrations.
-- 🎓 **Background:** Master of Computer Science (2017) with a deep interest in performance optimization.
+### 👨‍💻 Professional Overview
+Currently a **Junior Consultant at Jaypee Group (JILIT)**, I have architected and deployed over 27 mobile solutions across diverse sectors. My expertise lies in **Flutter, Dart, and React**, with a current focus on **AI-driven personalization** and high-performance **Enterprise Architectures**.
 
 ---
 
-### 📱 Production Portfolio (Featured)
+### 🏗️ Technical Stack
+
+| Domain | Expertise |
+| :--- | :--- |
+| **Frameworks** | **Flutter (Expert)**, React JS, React Native, Node.js, Express |
+| **State Management** | GetX, BLoC, Provider, Riverpod |
+| **Backend/Cloud** | Firebase, REST APIs, MongoDB, PostgreSQL |
+| **Specialties** | **AI Integration (OpenAI)**, Clean Architecture, iOS/Android Lifecycle |
+
+---
+
+### 🚀 High-Impact Production Work (Featured)
 
 <table border="0">
   <tr>
     <td align="center" width="33%">
       <img src="https://img.freepik.com/premium-vector/online-medical-consultation-app-interface_23-2148530435.jpg" width="100%"/><br/>
       <b>🏥 Infinum Growth</b><br/>
-      <i>Healthcare & Wellness</i><br/>
       <a href="https://play.google.com/store/apps/details?id=com.infinumgrowth.customer">【 View App 】</a>
     </td>
     <td align="center" width="33%">
       <img src="https://img.freepik.com/premium-psd/fitness-app-interface-mockup_23-2149114138.jpg" width="100%"/><br/>
       <b>🏋️ Atium Performance</b><br/>
-      <i>Athletic Analytics</i><br/>
       <a href="https://play.google.com/store/apps/details?id=com.atium">【 View App 】</a>
     </td>
     <td align="center" width="33%">
       <img src="https://img.freepik.com/premium-psd/golf-club-booking-app-ui-kit_553413-493.jpg" width="100%"/><br/>
       <b>⛳ Jaypee Golf</b><br/>
-      <i>Real-time Reservations</i><br/>
       <a href="https://play.google.com/store/apps/details?id=com.jaypeegreens.golf">【 View App 】</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.freepik.com/free-vector/wellness-app-interface-template_23-2148520335.jpg" width="100%"/><br/>
-      <b>🌿 Olympus Wellness</b><br/>
-      <i>Consultation Tracking</i><br/>
-      <a href="https://play.google.com/store/apps/details?id=in.olympuswellness">【 View App 】</a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.freepik.com/free-vector/legal-services-app-interface_23-2148540321.jpg" width="100%"/><br/>
-      <b>⚖️ Bail Hotline</b><br/>
-      <i>Legal Assistance</i><br/>
-      <a href="https://play.google.com/store/search?q=BAILHOTLINE&c=apps">【 View App 】</a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.freepik.com/premium-psd/social-media-app-interface-mockup_23-2149114140.jpg" width="100%"/><br/>
-      <b>🌐 Vpeep Me</b><br/>
-      <i>Social Networking</i><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.vpeep.me">【 View App 】</a>
     </td>
   </tr>
 </table>
 
-> **Also Developed:** **JILIT CRM** (Enterprise Dashboards), **JIIT Scholar** (Educational Portal), and **JapCom** (Internal Team Collaboration).
+---
+
+### 📂 Complete Project Catalog (27+ Apps)
+
+<details>
+<summary><b>🏥 Healthcare & Wellness (6 Apps)</b></summary>
+<br/>
+
+- **Infinum Growth (Customer):** Patient app for consultations. [Play Store](https://play.google.com/store/apps/details?id=com.infinumgrowth.customer)
+- **Infinum Growth (Doctor):** Management platform for healthcare providers.
+- **Olympus Wellness:** Fitness & wellness tracking. [Play Store](https://play.google.com/store/apps/details?id=in.olympuswellness)
+- **Ifitmash:** Comprehensive nutrition & workout monitor.
+- **Analyst Ji:** Astrology & prediction platform.
+- **Pink Tree:** Real-estate and location discovery.
+</details>
+
+<details>
+<summary><b>🌐 Social, Marketing & Entertainment (7 Apps)</b></summary>
+<br/>
+
+- **Vpeep Me:** Social networking platform. [Play Store](https://play.google.com/store/apps/details?id=com.vpeep.me)
+- **Vpops:** Marketing & promotions campaigns. [Play Store](https://play.google.com/store/apps/details?id=com.corewebconnections.vpops)
+- **Vpeeps:** Community discussion & collaboration. [Play Store](https://play.google.com/store/apps/details?id=com.corewebconnections.vpeeps)
+- **Mirage Edge:** Immersive music lounges and video chat.
+- **Waysss:** Video-sharing platform (YouTube-style).
+- **We Digital Cards:** NFC & QR business cards.
+- **Odd App:** Local service professional marketplace.
+</details>
+
+<details>
+<summary><b>🏢 Enterprise, CRM & Education (7 Apps)</b></summary>
+<br/>
+
+- **Unibiz Compliance:** Legal & regulatory management. [Website](https://unibizcompliance.com/)
+- **JILIT CRM:** Sales pipeline & analytics dashboard.
+- **JIIT Scholar Online:** Student academic portal. [Play Store](https://play.google.com/store/apps/details?id=ac.in.jiit.student.jiit_student)
+- **JapCom:** Internal team communication.
+- **Jaypee Golf Starter:** Internal golf operations management.
+- **MCQ Generator:** AI-powered exam assessment tool.
+- **Bail Hotline:** Legal assistance & bail services. [Play Store](https://play.google.com/store/search?q=BAILHOTLINE&c=apps)
+</details>
+
+<details>
+<summary><b>📦 Logistics, Booking & On-Demand (7 Apps)</b></summary>
+<br/>
+
+- **Saysoe (Customer/Driver/Manager):** 3-app ecosystem for ride management & tracking.
+- **Jaypee Golf Booking:** Real-time slot reservations. [Play Store](https://play.google.com/store/apps/details?id=com.jaypeegreens.golf)
+- **F9 Hotels:** Hotel reservation & room management.
+- **ChandChacha:** Hyperlocal vendor & on-demand service platform.
+</details>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 📊 GitHub Insights & Trophies
 
-| Category | Skills |
-| :--- | :--- |
-| **Mobile** | **Flutter**, **Dart**, React Native, iOS & Android Lifecycle |
-| **Web** | **React JS**, HTML5, CSS3 |
-| **Backend/Cloud** | **Firebase** (Auth, Firestore, Messaging), REST APIs, Postman |
-| **Architecture** | Clean Architecture, Agile, Design Strategies, Requirement Analysis |
-| **AI Integration** | Chatbots, Recommendation Systems, API-based Automation |
-
----
-
-### 📊 GitHub Stats & Velocity
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhi250996&theme=tokyonight&no-bg=true&margin-w=15" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhi250996&show_icons=true&theme=tokyonight&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=F8FAFC&bg_color=1E3A8A" width="48%" />
@@ -93,9 +117,9 @@ Currently a **Junior Consultant at Jaypee Group (JILIT)**, I specialize in the f
 
 ---
 
-### 🤝 Connect & Collaborate
+### 🤝 Let's Connect
 
-- 📱 **Mobile:** [+91 7376233746](tel:7376233746)
+- 📱 **Call:** [+91 7376233746](tel:7376233746)
 - 📧 **Email:** [developer.abhishek25@gmail.com](mailto:developer.abhishek25@gmail.com)
 - 📍 **Location:** Noida / Ghaziabad, India
 
