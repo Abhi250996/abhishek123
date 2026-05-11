@@ -59,7 +59,7 @@ My code runs in the hands of **real users, every single day**. I don't just foll
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postgresql,mongodb,graphql" />
 
 ### 🧠 AI, DevOps & Tools
-<img src="https://skillicons.dev/icons?i=gcp,docker,github,git,figma,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=gcp,github,git,figma,vscode,postman" />
 
 <br/>
 
@@ -86,7 +86,7 @@ My code runs in the hands of **real users, every single day**. I don't just foll
 
 [![Download](https://img.shields.io/badge/▶_Live_on_Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.infinumgrowth.customer)
 
-Full-stack doctor-patient bridge with appointment systems, real-time health data tracking & high-availability Firebase backend.
+Full-stack patient bridge with appointment systems, real-time health data tracking & high-availability Firebase backend.
 
 `Flutter` `Firebase` `BLoC` `Node.js` `Cloud Functions`
 
