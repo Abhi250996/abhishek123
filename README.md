@@ -1,130 +1,156 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=venom&color=0F172A,1E3A8A,3B82F6&height=280&section=header&text=Abhishek%20Sharma&fontSize=72&animation=fadeIn&fontColor=F8FAFC&desc=Senior%20Flutter%20Architect%20%7C%20AI%20Engineer%20%7C%2027%2B%20Apps%20Shipped&descSize=18&descAlignY=75&descColor=93C5FD" />
+<img src="https://capsule-render.vercel.app/render?type=venom&color=0F172A,1E3A8A,3B82F6&height=300&section=header&text=Abhishek%20Sharma&fontSize=80&animation=fadeIn&fontColor=F8FAFC&desc=Senior%20Flutter%20Architect%20%7C%20AI%20Engineer%20%7C%2027%2B%20Apps%20in%20Production&descSize=17&descAlignY=75&descColor=93C5FD" />
 
-</div>
+<br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=680&lines=I+don't+just+write+code+—+I+architect+ecosystems.;27%2B+apps+shipped.+Real+users.+Every+day.;Flutter+Expert+%7C+AI+Builder+%7C+Full-Stack+Engineer.;Clean+code.+Scalable+systems.+Zero+compromise.;Let's+build+something+legendary.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=I+don't+just+write+code.;I+architect+ecosystems.;27%2B+apps+in+production.;Flutter+%7C+AI+%7C+Full-Stack.;Clean+code.+Scalable+systems.;Let's+build+something+legendary.)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-sharma-bb0ab128b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-%233B82F6.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishek-77d4a.web.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhi250996)
-[![Email](https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.abhishek25@gmail.com)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me%20→-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.abhishek25@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917376233746)
 
 </div>
 
 ---
 
-## ⚡ Who Am I?
+<div align="center">
 
-> *"Most developers write features. I build platforms that scale."*
+## ⚡ "Most developers write features. I build platforms that scale."
 
-I'm a **Senior Software Engineer** with **4 years** of relentless execution — shipping **27+ production apps** across healthcare, fintech, logistics, real estate, and AI. My code runs in the hands of **real users, every single day**.
+</div>
 
-I don't just follow architectures — I design them. I don't just integrate AI — I build intelligent systems that solve actual engineering problems.
+**Senior Software Engineer** · **4 years** of relentless execution · **27+ production apps** across healthcare, fintech, logistics, real estate & AI.
 
-**If you need it built right, built fast, and built to last — you've found your engineer.**
+My code runs in the hands of **real users, every single day**. I don't just follow architectures — I design them. I don't just integrate AI — I build intelligent systems that solve real engineering problems.
+
+> **If you need it built right, built fast, and built to last — you've found your engineer.**
 
 ---
 
-## 🏆 Impact By The Numbers
+## 🏆 Impact At A Glance
 
 <div align="center">
 
-| 🚀 Production Apps | 🏗️ Architectures Designed | 🤖 AI Systems Built | 👥 Users Served |
-|:---:|:---:|:---:|:---:|
-| **27+** | **5+ Full-Scale ERPs & CRMs** | **LLM-Powered Assistants** | **10,000+** |
+<img src="https://github-profile-trophy.vercel.app/?username=Abhi250996&theme=tokyonight&no-bg=true&margin-w=12&column=7" />
+
+<br/><br/>
+
+| 🚀 Apps Shipped | 🏗️ ERPs & CRMs | 🤖 AI Systems | 👥 Users Served | 📍 Location |
+|:---:|:---:|:---:|:---:|:---:|
+| **27+** | **5+** | **LLM-Powered** | **10,000+** | **Noida, India** |
 
 </div>
 
 ---
 
-## 🛠️ Core Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-Proficient-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 📱 Mobile & Frontend
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,tailwind,html,css,js,ts" />
 
-### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Expert-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postgresql,mongodb,graphql" />
 
-### AI & DevOps
-![OpenAI](https://img.shields.io/badge/OpenAI_API-Builder-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### 🧠 AI, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=gcp,docker,github,git,figma,vscode,postman" />
+
+<br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Expert-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![BLoC](https://img.shields.io/badge/BLoC_Architecture-Expert-5C6BC0?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-Builder-412991?style=flat-square&logo=openai&logoColor=white)
+![Clean Arch](https://img.shields.io/badge/Clean_Architecture-Expert-1E3A8A?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Flagship Projects — Built & Deployed
+## 🚀 Flagship Projects — Built & Shipped
 
-> *27+ apps shipped. Here are the ones that define my craft.*
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏥 Infinum Growth
+**Enterprise Health Platform**
 
-### 🏥 Infinum Growth — Enterprise Health Platform
-**Live on Play Store** → [![Download](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.infinumgrowth.customer)
+[![Download](https://img.shields.io/badge/▶_Live_on_Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.infinumgrowth.customer)
 
-Full-stack doctor-patient bridge. Built appointment systems, real-time health data tracking, and a high-availability backend using Firebase Cloud Functions. Handles complex medical workflows with zero downtime.
+Full-stack doctor-patient bridge with appointment systems, real-time health data tracking & high-availability Firebase backend.
 
-`Flutter` `Firebase` `Node.js` `Real-time DB` `BLoC Architecture`
+`Flutter` `Firebase` `BLoC` `Node.js` `Cloud Functions`
 
----
+</td>
+<td width="50%" valign="top">
 
-### ⛳ Jaypee Golf — Luxury Real-Time Booking Engine
-**Live on Play Store** → [![Download](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.jaypeegreens.golf)
+### ⛳ Jaypee Golf
+**Luxury Real-Time Booking Engine**
 
-Engineered a real-time tee-time reservation system for one of India's premier golf destinations. Sub-second booking confirmations, slot conflict resolution, and an operations dashboard.
+[![Download](https://img.shields.io/badge/▶_Live_on_Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.jaypeegreens.golf)
+
+Real-time tee-time reservations for India's premier golf destination. Sub-second confirmations, conflict resolution & ops dashboard.
 
 `Flutter` `Firebase` `Real-time Systems` `Operations Portal`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📦 Saysoe Ecosystem — End-to-End Logistics Triad
-Three interconnected apps (Customer + Driver + Fleet Manager) operating as a unified logistics platform. Built the full backend infrastructure, real-time GPS tracking, order lifecycle, and fleet analytics.
+### ⚖️ Bail Hotline
+**Legal Fintech Platform**
+
+[![Download](https://img.shields.io/badge/▶_Live_on_Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/search?q=BAILHOTLINE&c=apps)
+
+On-demand legal intervention — connecting defendants with bondsmen in real time. Complex payment flows, legal doc handling & compliance tracking.
+
+`Flutter` `Firebase` `Fintech` `GCP` `Legal Workflow`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Saysoe Ecosystem
+**End-to-End Logistics Triad**
+
+Three interconnected apps (Customer + Driver + Fleet Manager). Full backend infra, real-time GPS, order lifecycle & fleet analytics — built from scratch.
 
 `Flutter` `Node.js` `Google Maps API` `Multi-App Architecture`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 MCQ AI Generator — LLM-Powered Assessment Engine
-Built an AI system using OpenAI's API that auto-generates contextual multiple-choice questions from any document or topic. Engineered prompt chains, answer validation logic, and difficulty calibration.
+### 🤖 MCQ AI Generator
+**LLM-Powered Assessment Engine**
+
+Auto-generates contextual MCQs from any document or topic using OpenAI. Prompt chains, answer validation & difficulty calibration.
 
 `OpenAI API` `Prompt Engineering` `Flutter` `Generative AI`
 
----
+</td>
+<td width="50%" valign="top">
 
-### ⚖️ Bail Hotline — Legal Fintech Platform
-**Live on Play Store** → [![Download](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/search?q=BAILHOTLINE&c=apps)
+### 📊 Jilit CRM
+**Sales Ops & Analytics Platform**
 
-Built a legal intervention platform connecting defendants with bail bondsmen in real time. Complex payment flows, legal document handling, and compliance tracking.
+Full-scale CRM — lead lifecycles, sales pipelines, team performance analytics & automated follow-ups. Built for high-velocity sales teams.
 
-`Flutter` `Firebase` `Fintech` `GCP` `Legal Workflow Automation`
+`React.js` `Node.js` `PostgreSQL` `Analytics Dashboard`
 
----
-
-### 📊 Jilit CRM — Sales Operations & Analytics
-A full-scale CRM system managing lead lifecycles, sales pipelines, team performance analytics, and automated follow-ups. Built for high-velocity sales teams.
-
-`React.js` `Node.js` `PostgreSQL` `Analytics Dashboard` `Clean Architecture`
+</td>
+</tr>
+</table>
 
 ---
 
@@ -134,15 +160,15 @@ A full-scale CRM system managing lead lifecycles, sales pipelines, team performa
 <summary><b>💼 Enterprise, CRM & GovTech — 7 Projects</b></summary>
 <br>
 
-| Project | Description | Stack |
-|---|---|---|
-| **JILIT CRM** | Full lead lifecycle and sales ops management | React, Node.js, PostgreSQL |
-| **JapCom** | High-security internal communications suite | Flutter, Firebase |
-| **JIIT Scholar Online** | Ed-tech platform for 10,000+ users | Flutter, Firebase |
-| **Unibiz Compliance** | Automated legal and corporate tracking | Flutter, Node.js |
-| **Bail Hotline** | On-demand legal intervention system | Flutter, GCP |
-| **Jaypee Golf Starter** | Operations management portal | Flutter, Firebase |
-| **Digital Cards** | Smart NFC/QR business networking | Flutter, Firebase |
+| | Project | What It Does | Stack |
+|---|---|---|---|
+| 🏢 | **JILIT CRM** | Full lead lifecycle & sales ops | React, Node.js, PostgreSQL |
+| 🔐 | **JapCom** | High-security internal comms suite | Flutter, Firebase |
+| 🎓 | **JIIT Scholar Online** | Ed-tech for 10,000+ users | Flutter, Firebase |
+| ⚖️ | **Unibiz Compliance** | Automated legal & corporate tracking | Flutter, Node.js |
+| 🚨 | **Bail Hotline** | On-demand legal intervention | Flutter, GCP |
+| 🏌️ | **Jaypee Golf Starter** | Operations management portal | Flutter, Firebase |
+| 📇 | **Digital Cards** | Smart NFC/QR business networking | Flutter, Firebase |
 
 </details>
 
@@ -150,14 +176,14 @@ A full-scale CRM system managing lead lifecycles, sales pipelines, team performa
 <summary><b>🛒 Logistics, Booking & Real Estate — 6 Projects</b></summary>
 <br>
 
-| Project | Description | Stack |
-|---|---|---|
-| **Saysoe Triad** | Unified Customer + Driver + Manager logistics | Flutter, Node.js, Maps API |
-| **Jaypee Golf Booking** | Luxury real-time amenity reservations | Flutter, Firebase |
-| **F9 Hotels** | Global hospitality inventory manager | Flutter, Node.js |
-| **ChandChacha** | Hyperlocal e-commerce vendor ecosystem | Flutter, Firebase |
-| **Odd App** | Peer-to-peer professional service marketplace | Flutter, Node.js |
-| **Pink Tree** | Real-estate discovery and listing portal | Flutter, Firebase |
+| | Project | What It Does | Stack |
+|---|---|---|---|
+| 🚚 | **Saysoe Triad** | Customer + Driver + Manager logistics | Flutter, Node.js, Maps API |
+| ⛳ | **Jaypee Golf Booking** | Luxury real-time amenity reservations | Flutter, Firebase |
+| 🏨 | **F9 Hotels** | Global hospitality inventory manager | Flutter, Node.js |
+| 🛍️ | **ChandChacha** | Hyperlocal e-commerce ecosystem | Flutter, Firebase |
+| 🔧 | **Odd App** | P2P professional marketplace | Flutter, Node.js |
+| 🏠 | **Pink Tree** | Real-estate discovery portal | Flutter, Firebase |
 
 </details>
 
@@ -165,15 +191,15 @@ A full-scale CRM system managing lead lifecycles, sales pipelines, team performa
 <summary><b>🏥 Healthcare, Wellness & Social — 10 Projects</b></summary>
 <br>
 
-| Project | Description | Stack |
-|---|---|---|
-| **Infinum Growth** | Doctor-patient health bridge | Flutter, Firebase, Node.js |
-| **Olympus Wellness** | Fitness and habit coaching platform | Flutter, Firebase |
-| **Ifitmash** | Nutrition and health data monitoring | Flutter, Node.js |
-| **Vpeep Me / Vpops / Vpeeps** | Multi-tier social marketing network | Flutter, Firebase |
-| **Analyst Ji** | Real-time expert astrology consulting | Flutter, Firebase |
-| **Waysss** | Low-latency video community platform | Flutter, Node.js, WebRTC |
-| **Mirage Edge** | Social music and lifestyle lounge | Flutter, Firebase |
+| | Project | What It Does | Stack |
+|---|---|---|---|
+| 💊 | **Infinum Growth** | Doctor-patient health bridge | Flutter, Firebase, Node.js |
+| 💪 | **Olympus Wellness** | Fitness & habit coaching platform | Flutter, Firebase |
+| 🥗 | **Ifitmash** | Nutrition & health data monitoring | Flutter, Node.js |
+| 📲 | **Vpeep Me / Vpops / Vpeeps** | Multi-tier social marketing network | Flutter, Firebase |
+| 🔮 | **Analyst Ji** | Real-time astrology consulting | Flutter, Firebase |
+| 🎥 | **Waysss** | Low-latency video community platform | Flutter, Node.js, WebRTC |
+| 🎵 | **Mirage Edge** | Social music & lifestyle lounge | Flutter, Firebase |
 
 </details>
 
@@ -212,42 +238,55 @@ class AbhishekSharma extends SeniorEngineer {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi250996&show_icons=true&theme=tokyonight&count_private=true&title_color=3B82F6&icon_color=60A5FA&text_color=E2E8F0&bg_color=0F172A&border_color=1E3A8A&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi250996&theme=tokyonight&fire=60A5FA&ring=3B82F6&sideNums=E2E8F0&stroke=1E3A8A&background=0F172A&currStreakLabel=3B82F6" width="49%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi250996&layout=compact&theme=tokyonight&title_color=3B82F6&text_color=E2E8F0&bg_color=0F172A&border_color=1E3A8A&langs_count=8" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhi250996&theme=tokyonight&no-bg=true&margin-w=10&column=4" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhi250996&show_icons=true&theme=tokyonight&count_private=true&title_color=3B82F6&icon_color=60A5FA&text_color=E2E8F0&bg_color=0F172A&border_color=1E3A8A&include_all_commits=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi250996&theme=tokyonight&fire=60A5FA&ring=3B82F6&sideNums=E2E8F0&stroke=1E3A8A&background=0F172A&currStreakLabel=3B82F6" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi250996&layout=donut&theme=tokyonight&title_color=3B82F6&text_color=E2E8F0&bg_color=0F172A&border_color=1E3A8A&langs_count=8" width="38%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi250996&theme=tokyo-night&bg_color=0F172A&color=60A5FA&line=3B82F6&point=F8FAFC&area=true&hide_border=true" width="58%" />
+
 </div>
 
 ---
 
-## 📡 Let's Connect
+## 📡 Let's Build Something
 
 <div align="center">
 
-I'm available for **freelance projects**, **full-time roles**, and **technical collaborations**.
+### Available for Freelance · Full-Time · Technical Collaborations
 
-If you have a complex problem that needs a senior engineer who can think in systems — let's talk.
+*Have a complex problem that needs a senior engineer who thinks in systems?*
 
-[![Email](https://img.shields.io/badge/developer.abhishek25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.abhishek25@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/%2B91_73762_33746-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917376233746)
+<br/>
+
+[![Email](https://img.shields.io/badge/📧_developer.abhishek25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.abhishek25@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬_+91_73762_33746-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917376233746)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-sharma-bb0ab128b)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishek-77d4a.web.app/)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishek-77d4a.web.app/)
+
+<br/>
 
 📍 **Noida, Uttar Pradesh, India** — Open to remote worldwide
 
-</div>
+<br/>
 
 ---
 
-<div align="center">
-
 *"The best engineers don't just solve today's problems — they build systems that make tomorrow's problems easier."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhi250996&label=Profile+Views&color=1E3A8A&style=flat-square)
+<br/>
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=1E3A8A,3B82F6&height=120&section=footer" />
+![Profile Views](https://komarev.com/ghpvc/?username=Abhi250996&label=Profile+Views&color=1E3A8A&style=flat-square)
+&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/Abhi250996?label=Followers&style=flat-square&color=1E3A8A)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0F172A,1E3A8A,3B82F6&height=130&section=footer" />
 
 </div>
