@@ -1,142 +1,79 @@
-```md
-<h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=1E3A8A&height=200&section=header&text=Abhishek%20Sharma&fontSize=70&animation=fadeIn&fontColor=F8FAFC" />
 
-<h3 align="center">
-Flutter Developer | 3+ Years Experience
-</h3>
+  ### 📱 Senior Flutter Developer | React & Full-Stack Enthusiast
+  **Specializing in Scalable Enterprise Architecture & High-Performance Mobile Solutions**
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a **Software Engineer** with over 3 years of experience crafting production-grade applications. My expertise lies in building complex ecosystems—ranging from **Hospital Management Systems (HMS)** to **AI-powered Engineering Tools**. I focus on bridge-building between sleek UI and robust backend logic.
+
+- 🏗️ **Architectural Focus:** Expert in **Clean Architecture**, BLoC, and GetX for maintainable codebases.
+- ⚙️ **Full-Stack Capability:** Proficient in **Node.js/Express** and **React** for building comprehensive admin dashboards.
+- 🤖 **AI Integration:** Experienced in implementing OpenAI APIs for automated blueprint and content generation.
+- 🚀 **Performance:** Dedicated to optimizing frame rates, memory usage, and seamless REST API integration.
+
+---
+
+### 🛠️ Specialized Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile Development** | `Flutter` `Dart` `Android (Kotlin/Java)` `iOS (Swift)` |
+| **Web & Backend** | `React.js` `Node.js` `Express` `Tally Development` |
+| **State Management** | `GetX` `BLoC` `Provider` |
+| **Database & Cloud** | `Firebase` `MongoDB` `PostgreSQL` `REST APIs` |
+| **Tools & DevOps** | `Git/GitHub` `Postman` `CI/CD` `Codemagic` |
+
+---
+
+### 📱 Featured Production Projects
+
+#### 🏥 Healthcare & Wellness
+- **Infinum Growth:** A complete wellness ecosystem featuring real-time appointment scheduling and counseling modules.
+- **Olympus Wellness:** Personalized fitness tracking with complex data visualization.
+- **Hospital Management System (HMS):** (Internal/Private) A comprehensive suite for managing medical settings and staff workflows.
+
+#### ⛳ Booking & Enterprise
+- **Jaypee Golf Booking:** High-traffic slot reservation system with real-time availability updates.
+- **Bail Hotline:** Critical legal-tech solution designed for speed and reliability.
+
+#### 🎓 Education & Social
+- **JIIT Scholar Online:** Academic portal handling attendance and results for thousands of students.
+- **Vpeep Me:** Interactive social networking platform focusing on community engagement.
+
+---
+
+### 📊 Engineering Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=F8FAFC&bg_color=1E3A8A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=3B82F6&icon_color=3B82F6&text_color=F8FAFC&bg_color=1E3A8A" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&fire=3B82F6&ring=3B82F6&sideNums=F8FAFC&stroke=F8FAFC&background=1E3A8A" width="100%" />
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+If you're looking for a developer who understands the balance between **business logic** and **user experience**, let's chat!
+
+- 💬 Ask me about: **Flutter, React, and Scalable Backend Systems**
+- 📫 Reach me at: **yourmail@gmail.com**
+- ⚡ Fun fact: I enjoy solving complex logic puzzles and building AI-driven engineering tools.
 
 <p align="center">
-Building Scalable Healthcare, CRM, Booking & Enterprise Applications using Flutter
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=1E3A8A&style=flat" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
----
-
-# 🚀 About Me
-
-- 💼 Flutter Developer with real-world production experience
-- 📱 Developed and maintained multiple live production applications
-- 🏗️ Experienced in scalable architecture and reusable UI systems
-- ⚡ Skilled in Flutter, Dart, Firebase, REST APIs & GetX
-- 🎯 Focused on performance optimization and clean code architecture
-- 🌱 Exploring advanced Flutter architecture & scalable systems
-
----
-
-# 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-
-</p>
-
----
-
-# 📱 Live Production Applications
-
-## 🏥 Infinum Growth
-Healthcare & personal growth platform for appointments, counselling, wellness programs, and self-improvement.
-
-🔗 https://play.google.com/store/apps/details?id=com.infinumgrowth.customer
-
----
-
-## 🏋️ Atium
-Performance intelligence platform helping athletes and coaches track workouts and analytics.
-
-🔗 https://play.google.com/store/apps/details?id=com.atium
-
----
-
-## 🎓 JIIT Scholar Online
-Academic portal for attendance, results, notifications, and student services.
-
-🔗 https://play.google.com/store/apps/details?id=ac.in.jiit.student.jiit_student
-
----
-
-## 🌿 Olympus Wellness
-Health and wellness application with personalized fitness and wellness tracking.
-
-🔗 https://play.google.com/store/apps/details?id=in.olympuswellness
-
----
-
-## ⚖️ Bail Hotline
-Legal assistance platform helping users connect with bail services quickly.
-
-🔗 https://play.google.com/store/search?q=BAILHOTLINE&c=apps
-
----
-
-## 🌐 Vpeep Me
-Social networking platform for connecting and interacting through shared interests.
-
-🔗 https://play.google.com/store/apps/details?id=com.vpeep.me
-
----
-
-## ⛳ Jaypee Golf Booking
-Golf course booking platform with real-time slot reservation and scheduling.
-
-🔗 https://play.google.com/store/apps/details?id=com.jaypeegreens.golf
-
----
-
-# 💡 Flutter Expertise
-
-✔ Clean Architecture  
-✔ GetX State Management  
-✔ Firebase Integration  
-✔ REST API Integration  
-✔ Responsive UI Design  
-✔ Reusable Widgets  
-✔ Dashboard Systems  
-✔ CRM Applications  
-✔ Booking Platforms  
-✔ Enterprise Mobile Applications  
-✔ Performance Optimization  
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: yourmail@gmail.com
-- 🌎 GitHub: https://github.com/YOUR_USERNAME
-
----
-
-<h3 align="center">
-⭐ Building scalable Flutter applications with clean architecture & modern UI systems
-</h3>
-```
