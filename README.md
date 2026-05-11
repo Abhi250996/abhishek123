@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3B82F6&height=250&section=header&text=Abhishek%20%20Sharma&fontSize=70&animation=fadeIn&fontColor=F8FAFC" />
+  <img src="[https://capsule-render.vercel.app/render?type=waving&color=3B82F6&height=250&section=header&text=Abhishek%20%20Sharma&fontSize=70&animation=fadeIn&fontColor=F8FAFC](https://img.freepik.com/premium-photo/man-with-glasses-purple-background-with-picture-man-with-glasses-his-face_1221953-80174.jpg?semt=ais_hybrid&w=740&q=80)" />
 
   ## ⚡ Senior Software Engineer | Flutter & React Architect
   **Engineering High-Performance Mobile & Web Ecosystems**
