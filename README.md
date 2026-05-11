@@ -1,27 +1,29 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=1E3A8A&height=200&section=header&text=Abhishek%20Sharma&fontSize=70&animation=fadeIn&fontColor=F8FAFC" />
 
-  ### 📱 Senior Flutter Developer | React & Node.js
-  **Building Scalable Healthcare, CRM & Enterprise Mobile Solutions**
+  ### 📱 Senior Mobile Application Developer | Flutter Expert | AI Enthusiast
+  **4+ Years of Experience in Building Scalable Enterprise & AI-Driven Mobile Ecosystems**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-sharma-bb0ab128b)
   [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishek-77d4a.web.app/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhi250996)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.abhishek25@gmail.com)
 </div>
 
 ---
 
-### 👨‍💻 Professional Summary
+### 👨‍💻 Professional Profile
 
-I am a **Software Developer** with 3+ years of experience in the **Flutter** ecosystem. I specialize in turning complex business requirements—from **Hospital Management Systems** to **Real-time Booking Platforms**—into high-performance mobile applications.
+Currently a **Junior Consultant at Jaypee Group (JILIT)**, I specialize in the full **SDLC** of cross-platform applications. With a foundation in **Clean Architecture** and **Agile methodologies**, I am now bridging the gap between mobile interfaces and **Artificial Intelligence**.
 
-- 🚀 **Core Expertise:** Flutter, Dart, React, Node.js, and Express.
-- 🏗️ **Architecture:** Clean Architecture, BLoC, and GetX for enterprise scalability.
-- 🤖 **Innovation:** Implementing AI-driven tools for Civil Engineering blueprinting.
+- 🔭 **Current Focus:** Integrating AI-powered chatbots, recommendation engines, and workflow automation into Flutter apps.
+- 🏗️ **Core Strength:** Designing robust iOS/Android architectures with **Dart**, **BLoC**, and **GetX**.
+- ☁️ **Backend Sync:** Expert in **Firebase** ecosystem and complex **RESTful API** integrations.
+- 🎓 **Background:** Master of Computer Science (2017) with a deep interest in performance optimization.
 
 ---
 
-### 📱 Live Production Projects
+### 📱 Production Portfolio (Featured)
 
 <table border="0">
   <tr>
@@ -38,17 +40,17 @@ I am a **Software Developer** with 3+ years of experience in the **Flutter** eco
       <a href="https://play.google.com/store/apps/details?id=com.atium">【 View App 】</a>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.freepik.com/free-vector/online-university-education-app-interface_23-2148560341.jpg" width="100%"/><br/>
-      <b>🎓 JIIT Scholar</b><br/>
-      <i>Academic Portal</i><br/>
-      <a href="https://play.google.com/store/apps/details?id=ac.in.jiit.student.jiit_student">【 View App 】</a>
+      <img src="https://img.freepik.com/premium-psd/golf-club-booking-app-ui-kit_553413-493.jpg" width="100%"/><br/>
+      <b>⛳ Jaypee Golf</b><br/>
+      <i>Real-time Reservations</i><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.jaypeegreens.golf">【 View App 】</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <img src="https://img.freepik.com/free-vector/wellness-app-interface-template_23-2148520335.jpg" width="100%"/><br/>
       <b>🌿 Olympus Wellness</b><br/>
-      <i>Health Tracking</i><br/>
+      <i>Consultation Tracking</i><br/>
       <a href="https://play.google.com/store/apps/details?id=in.olympuswellness">【 View App 】</a>
     </td>
     <td align="center" width="33%">
@@ -64,51 +66,38 @@ I am a **Software Developer** with 3+ years of experience in the **Flutter** eco
       <a href="https://play.google.com/store/apps/details?id=com.vpeep.me">【 View App 】</a>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="33%"></td>
-    <td align="center" width="33%">
-      <img src="https://img.freepik.com/premium-psd/golf-club-booking-app-ui-kit_553413-493.jpg" width="100%"/><br/>
-      <b>⛳ Jaypee Golf Booking</b><br/>
-      <i>Real-time Reservations</i><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.jaypeegreens.golf">【 View App 】</a>
-    </td>
-    <td align="center" width="33%"></td>
-  </tr>
 </table>
 
----
-
-### 🛠️ Specialized Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-1E3A8A?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-3B82F6?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white"/>
-</div>
+> **Also Developed:** **JILIT CRM** (Enterprise Dashboards), **JIIT Scholar** (Educational Portal), and **JapCom** (Internal Team Collaboration).
 
 ---
 
-### 📈 Metrics & Insights
+### 🛠️ Technical Arsenal
+
+| Category | Skills |
+| :--- | :--- |
+| **Mobile** | **Flutter**, **Dart**, React Native, iOS & Android Lifecycle |
+| **Web** | **React JS**, HTML5, CSS3 |
+| **Backend/Cloud** | **Firebase** (Auth, Firestore, Messaging), REST APIs, Postman |
+| **Architecture** | Clean Architecture, Agile, Design Strategies, Requirement Analysis |
+| **AI Integration** | Chatbots, Recommendation Systems, API-based Automation |
+
+---
+
+### 📊 GitHub Stats & Velocity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhi250996&show_icons=true&theme=tokyonight&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=F8FAFC&bg_color=1E3A8A" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi250996&layout=compact&theme=tokyonight&title_color=3B82F6&icon_color=3B82F6&text_color=F8FAFC&bg_color=1E3A8A" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi250996&theme=tokyonight&fire=3B82F6&ring=3B82F6&sideNums=F8FAFC&stroke=F8FAFC&background=1E3A8A" width="100%" />
-</div>
-
 ---
 
-### 🤝 Let's Connect
+### 🤝 Connect & Collaborate
 
-- 💼 LinkedIn: [abhishek-sharma-bb0ab128b](https://linkedin.com/in/abhishek-sharma-bb0ab128b)
-- 🌎 Portfolio: [abhishek-77d4a.web.app](https://abhishek-77d4a.web.app/)
-- 📧 Email: abhishek.sharma.dev@gmail.com
+- 📱 **Mobile:** [+91 7376233746](tel:7376233746)
+- 📧 **Email:** [developer.abhishek25@gmail.com](mailto:developer.abhishek25@gmail.com)
+- 📍 **Location:** Noida / Ghaziabad, India
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhi250996&label=PROFILE+VIEWS&color=1E3A8A&style=flat" />
