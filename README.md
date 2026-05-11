@@ -280,12 +280,7 @@ class AbhishekSharma extends SeniorEngineer {
 *"The best engineers don't just solve today's problems — they build systems that make tomorrow's problems easier."*
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhi250996&label=Profile+Views&color=1E3A8A&style=flat-square)
-&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/Abhi250996?label=Followers&style=flat-square&color=1E3A8A)
-
-<br/>
+ 
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0F172A,1E3A8A,3B82F6&height=130&section=footer" />
 
