@@ -27,94 +27,94 @@ Results-driven **Senior Developer** with a 4-year tenure of engineering excellen
 <table border="0">
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=postman" width="50px"/><br/>
+      <img src="https://skillicons.dev/icons?i=postman" width="50px" style="filter: hue-rotate(200deg);"/><br/>
       <b>🏥 Infinum Growth</b><br/>
-      <small>Enterprise Health-Tech platform connecting doctors & patients.</small><br/>
+      <small>Telemedicine ecosystem bridging high-concurrency patient-doctor data.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.infinumgrowth.customer"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=firebase" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/golf-ball.png" width="50px"/><br/>
       <b>⛳ Jaypee Golf</b><br/>
-      <small>Luxury real-time booking engine with sub-second conflict resolution.</small><br/>
+      <small>Luxury reservation engine with real-time slot booking & GPS integration.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.jaypeegreens.golf"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/delivery-truck.png" width="50px"/><br/>
       <b>🚚 Saysoe Driver</b><br/>
-      <small>Real-time logistics & GPS tracking for high-velocity fleets.</small>
+      <small>Logistics & fleet automation with low-latency route optimization.</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=react" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/conference-call.png" width="50px"/><br/>
       <b>📊 Jilit CRM</b><br/>
-      <small>Full-scale Sales Ops platform managing lead lifecycles.</small>
+      <small>Enterprise sales lifecycle tracker & lead management dashboard.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=openai" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/brainstorming.png" width="50px"/><br/>
       <b>🤖 MCQ AI Gen</b><br/>
-      <small>LLM-powered engine generating contextual exams via OpenAI.</small>
+      <small>Automated intelligence system for generating academic assessments.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=gcp" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/law.png" width="50px"/><br/>
       <b>⚖️ Bail Hotline</b><br/>
-      <small>Legal fintech platform for on-demand legal intervention.</small><br/>
+      <small>Legal-tech application facilitating rapid-response legal interventions.</small><br/>
       <a href="https://play.google.com/store/search?q=BAILHOTLINE&c=apps"><b>【 Deployment 】</b></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=flutter" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/student-registration.png" width="50px"/><br/>
       <b>🎓 JIIT Scholar</b><br/>
-      <small>Ed-Tech portal serving 10,000+ university students daily.</small><br/>
+      <small>Academic portal managing records for 10k+ active university students.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=ac.in.jiit.student.jiit_student"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=apple" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/hotel.png" width="50px"/><br/>
       <b>🏨 F9 Hotels</b><br/>
-      <small>Global reservation engine with multi-property inventory management.</small>
+      <small>Cross-platform booking engine for premium hospitality properties.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=materialui" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/contactless-payment.png" width="50px"/><br/>
       <b>🪪 Digital Cards</b><br/>
-      <small>Networking solution utilizing NFC and QR-based contact exchange.</small>
+      <small>Contactless networking solution via NFC/QR profile syncing.</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=workers" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/checked-user-male.png" width="50px"/><br/>
       <b>📜 Unibiz Comp.</b><br/>
-      <small>Corporate legal tracking for automated regulatory compliance.</small><br/>
+      <small>Automated compliance engine for corporate regulatory tracking.</small><br/>
       <a href="https://unibizcompliance.com/"><b>【 Website 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=discord" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/globe.png" width="50px"/><br/>
       <b>🌐 Vpeep Me</b><br/>
-      <small>High-concurrency social network with media sharing features.</small><br/>
+      <small>Scalable social hub with advanced media sharing & concurrency.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.vpeep.me"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=heart" width="50px"/><br/>
-      <b>🌿 Olympus Wellness</b><br/>
-      <small>Personalized fitness and habit coaching platform.</small><br/>
+      <img src="https://img.icons8.com/fluency/100/leaf.png" width="50px"/><br/>
+      <b>🌿 Olympus</b><br/>
+      <small>Holistic wellness tracker focusing on bio-metrics & habit change.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=in.olympuswellness"><b>【 Deployment 】</b></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=twitter" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/video-conference.png" width="50px"/><br/>
       <b>🎥 Waysss</b><br/>
-      <small>Low-latency social video platform utilizing WebRTC.</small>
+      <small>Next-gen social video platform using low-latency WebRTC tech.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/chat.png" width="50px"/><br/>
       <b>🏢 JapCom</b><br/>
-      <small>Secure enterprise messaging suite built for high-privacy comms.</small>
+      <small>Encrypted internal communication suite for high-security firms.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=analytics" width="50px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/weightlifting.png" width="50px"/><br/>
       <b>🏋️ Atium</b><br/>
-      <small>Performance intelligence for tracking athletic training metrics.</small><br/>
+      <small>High-performance athlete monitoring & training data analytics.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.atium"><b>【 Deployment 】</b></a>
     </td>
   </tr>
