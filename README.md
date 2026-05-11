@@ -20,104 +20,108 @@ Results-driven **Senior Developer** with a 4-year tenure of engineering excellen
 - 🎯 **Leadership:** Expert in Clean Architecture, BLoC, and CI/CD pipelines.
 
 ---
+---
 
 ### 📱 Premier Project Gallery (The "Featured 15")
 *A thematic showcase of 15 selected projects from a total portfolio of 27+ shipped solutions.*
+
 <table border="0">
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/100/external-Health-round-icons-flat-icons-inmotus-design.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/8801788771595571821_0" width="80px"/><br/>
       <b>🏥 Infinum Growth</b><br/>
-      <small>Telemedicine ecosystem bridging high-concurrency patient-doctor data.</small><br/>
+      <small>Enterprise health bridge with real-time patient data tracking.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.infinumgrowth.customer"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/golf-icon.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/1243804713792868068_0" width="80px"/><br/>
       <b>⛳ Jaypee Golf</b><br/>
-      <small>Luxury reservation engine with real-time slot booking & GPS integration.</small><br/>
+      <small>Luxury real-time booking engine for premier golf destinations.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.jaypeegreens.golf"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/delivery.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/10131717608398259912_0" width="80px"/><br/>
       <b>🚚 Saysoe Driver</b><br/>
-      <small>Logistics & fleet automation with low-latency route optimization.</small>
+      <small>End-to-end logistics with real-time GPS & fleet analytics.</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/organization.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/13183390143921750607_0" width="80px"/><br/>
       <b>📊 Jilit CRM</b><br/>
-      <small>Enterprise sales lifecycle tracker & lead management dashboard.</small>
+      <small>Full-scale CRM with lead lifecycles & sales pipelines.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=openai" width="50px"/><br/>
-      <b>🤖 MCQ AI Gen</b><br/>
-      <small>Automated intelligence system for generating academic assessments.</small>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/10955932835581751231_0" width="80px"/><br/>
+      <b>🤖 MCQ AI Generator</b><br/>
+      <small>LLM-powered engine generating contextual assessments.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/law.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/13440896027017843670_0" width="80px"/><br/>
       <b>⚖️ Bail Hotline</b><br/>
-      <small>Legal-tech application facilitating rapid-response legal interventions.</small><br/>
+      <small>Legal fintech platform connecting defendants with bondsmen.</small><br/>
       <a href="https://play.google.com/store/search?q=BAILHOTLINE&c=apps"><b>【 Deployment 】</b></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/education.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/15879241955763274513_0" width="80px"/><br/>
       <b>🎓 JIIT Scholar</b><br/>
-      <small>Academic portal managing records for 10k+ active university students.</small><br/>
+      <small>Ed-tech platform serving 10,000+ university users.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=ac.in.jiit.student.jiit_student"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/hotel.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/11698457392057950675_0" width="80px"/><br/>
       <b>🏨 F9 Hotels</b><br/>
-      <small>Cross-platform booking engine for premium hospitality properties.</small>
+      <small>Global hospitality inventory & reservation manager.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/contactless-cards.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/8949056140958041153_0" width="80px"/><br/>
       <b>🪪 Digital Cards</b><br/>
-      <small>Contactless networking solution via NFC/QR profile syncing.</small>
+      <small>Smart networking through NFC & QR profile integration.</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/verified-badge.png" width="50px"/><br/>
-      <b>📜 Unibiz Comp.</b><br/>
-      <small>Automated compliance engine for corporate regulatory tracking.</small><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/12806633434028030479_0" width="80px"/><br/>
+      <b>📜 Unibiz Compliance</b><br/>
+      <small>Automated tracking for legal & corporate compliance.</small><br/>
       <a href="https://unibizcompliance.com/"><b>【 Website 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/world-map--v2.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/16937998859803424878_0" width="80px"/><br/>
       <b>🌐 Vpeep Me</b><br/>
-      <small>Scalable social hub with advanced media sharing & concurrency.</small><br/>
+      <small>Scalable social hub with advanced media sharing features.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.vpeep.me"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/spa.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/10104637149597760874_0" width="80px"/><br/>
       <b>🌿 Olympus</b><br/>
-      <small>Holistic wellness tracker focusing on bio-metrics & habit change.</small><br/>
+      <small>Wellness tracker focusing on bio-metrics & habit coaching.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=in.olympuswellness"><b>【 Deployment 】</b></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/video-call.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/3663902634638727759_0" width="80px"/><br/>
       <b>🎥 Waysss</b><br/>
-      <small>Next-gen social video platform using low-latency WebRTC tech.</small>
+      <small>Low-latency social video platform using WebRTC.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/private-chat.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/6188772771308105289_0" width="80px"/><br/>
       <b>🏢 JapCom</b><br/>
-      <small>Encrypted internal communication suite for high-security firms.</small>
+      <small>Secure encrypted internal communication suite.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://img.icons8.com/fluency/100/bench-press.png" width="50px"/><br/>
+      <img src="http://googleusercontent.com/image_collection/image_retrieval/10061134849041322764_0" width="80px"/><br/>
       <b>🏋️ Atium</b><br/>
-      <small>High-performance athlete monitoring & training data analytics.</small><br/>
+      <small>Performance monitoring for professional athlete training.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.atium"><b>【 Deployment 】</b></a>
     </td>
   </tr>
 </table>
+
+---
 
 ---
 
