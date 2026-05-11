@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=1E3A8A&height=250&section=header&text=Abhishek%20Sharma&fontSize=80&animation=fadeIn&fontColor=F8FAFC" />
 
   ### 📱 Senior Mobile Application Developer | Flutter & AI Expert
-  **Building Scalable Enterprise Ecosystems & AI-Driven Mobile Solutions**
+  **4+ Years Experience | Architected & Deployed 27+ Production Solutions**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-sharma-bb0ab128b)
   [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishek-77d4a.web.app/)
@@ -31,86 +31,126 @@ I am a high-impact **Software Engineer** with 4+ years of experience and a track
 ![](https://geps.dev/progress/85?dangerColor=1E3A8A&warningColor=3B82F6&successColor=3B82F6&text=Firebase/Node.js)
 ![](https://geps.dev/progress/90?dangerColor=1E3A8A&warningColor=3B82F6&successColor=3B82F6&text=REST+APIs/Postman)
 
-**Architecture & Tools**
-![](https://geps.dev/progress/90?dangerColor=1E3A8A&warningColor=3B82F6&successColor=3B82F6&text=Git/Agile/Clean+Arch)
-
 ---
 
-### 🏆 Professional Trophies
+### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhi250996&theme=tokyonight&no-bg=true&margin-w=15" />
 </div>
 
 ---
 
-### 📱 Production Case Studies (Featured)
+### 📱 Premier Project Gallery (The "Featured 12")
 
 <table border="0">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="https://img.freepik.com/premium-vector/online-medical-consultation-app-interface_23-2148530435.jpg" width="100%"/><br/>
       <b>🏥 Infinum Growth</b><br/>
-      <i>Healthcare Booking & Management</i><br/>
       <a href="https://play.google.com/store/apps/details?id=com.infinumgrowth.customer">【 View App 】</a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/premium-psd/fitness-app-interface-mockup_23-2149114138.jpg" width="100%"/><br/>
+      <b>🏋️ Atium Performance</b><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.atium">【 View App 】</a>
+    </td>
+    <td align="center" width="33%">
       <img src="https://img.freepik.com/premium-psd/golf-club-booking-app-ui-kit_553413-493.jpg" width="100%"/><br/>
-      <b>⛳ Jaypee Golf Booking</b><br/>
-      <i>Real-time Slot Reservations</i><br/>
+      <b>⛳ Jaypee Golf</b><br/>
       <a href="https://play.google.com/store/apps/details?id=com.jaypeegreens.golf">【 View App 】</a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.freepik.com/premium-psd/fitness-app-interface-mockup_23-2149114138.jpg" width="100%"/><br/>
-      <b>🏋️ Atium Performance</b><br/>
-      <i>Athlete Analytics Platform</i><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.atium">【 View App 】</a>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/free-vector/wellness-app-interface-template_23-2148520335.jpg" width="100%"/><br/>
+      <b>🌿 Olympus Wellness</b><br/>
+      <a href="https://play.google.com/store/apps/details?id=in.olympuswellness">【 View App 】</a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/free-vector/legal-services-app-interface_23-2148540321.jpg" width="100%"/><br/>
+      <b>⚖️ Bail Hotline</b><br/>
+      <a href="https://play.google.com/store/search?q=BAILHOTLINE&c=apps">【 View App 】</a>
+    </td>
+    <td align="center" width="33%">
       <img src="https://img.freepik.com/premium-psd/social-media-app-interface-mockup_23-2149114140.jpg" width="100%"/><br/>
-      <b>🌐 Vpeep Me / Vpops</b><br/>
-      <i>Social & Marketing Ecosystem</i><br/>
+      <b>🌐 Vpeep Me</b><br/>
       <a href="https://play.google.com/store/apps/details?id=com.vpeep.me">【 View App 】</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/free-vector/digital-marketing-agency-concept-illustration_114360-3162.jpg" width="100%"/><br/>
+      <b>📈 Vpops</b><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.corewebconnections.vpops">【 View App 】</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/free-vector/community-concept-illustration_114360-1559.jpg" width="100%"/><br/>
+      <b>🤝 Vpeeps</b><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.corewebconnections.vpeeps">【 View App 】</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/free-vector/compliance-illustration-concept_114360-7053.jpg" width="100%"/><br/>
+      <b>📜 Unibiz Compliance</b><br/>
+      <a href="https://unibizcompliance.com/">【 View Site 】</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/free-vector/online-university-education-app-interface_23-2148560341.jpg" width="100%"/><br/>
+      <b>🎓 JIIT Scholar</b><br/>
+      <a href="https://play.google.com/store/apps/details?id=ac.in.jiit.student.jiit_student">【 View App 】</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/free-vector/delivery-service-app-interface-concept_23-2148498932.jpg" width="100%"/><br/>
+      <b>🚚 Saysoe Driver</b><br/>
+      <i>Logistics Tracking</i>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/free-vector/entertainment-app-interface-concept_23-2148534341.jpg" width="100%"/><br/>
+      <b>🎬 Mirage Edge</b><br/>
+      <i>Video Social Lounge</i>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📂 The Complete Catalog (27+ Projects)
+### 📂 Comprehensive Project Directory (27+ Apps)
 
 <details>
-<summary><b>🛠️ Enterprise & Compliance (7 Apps)</b></summary>
-- **Unibiz Compliance:** Legal tracking. [Website](https://unibizcompliance.com/)
+<summary><b>🛠️ Enterprise, CRM & AI (7 Apps)</b></summary>
 - **JILIT CRM:** Sales & Lead management.
-- **JIIT Scholar Online:** Education portal. [Play Store](https://play.google.com/store/apps/details?id=ac.in.jiit.student.jiit_student)
 - **JapCom:** Internal team messaging.
-- **Bail Hotline:** Legal assistance. [Play Store](https://play.google.com/store/search?q=BAILHOTLINE&c=apps)
+- **JIIT Scholar Online:** Education portal.
 - **MCQ Generator:** AI-powered learning tool.
 - **Jaypee Golf Starter:** Internal operations app.
+- **Unibiz Compliance:** Legal tracking.
+- **Bail Hotline:** Legal assistance.
 </details>
 
 <details>
-<summary><b>📦 Logistics & On-Demand (6 Apps)</b></summary>
-- **Saysoe Ecosystem:** (Customer, Driver, Manager) 3-app logistics suite.
+<summary><b>📦 On-Demand & Logistics (7 Apps)</b></summary>
+- **Saysoe Customer / Driver / Manager:** 3-app logistics suite.
 - **F9 Hotels:** Reservation management.
 - **ChandChacha:** Hyperlocal vendor platform.
-- **Odd App:** Service marketplace (UrbanClap-style).
+- **Odd App:** Service marketplace.
 - **Pink Tree:** Real-estate discovery.
 </details>
 
 <details>
-<summary><b>💊 Health & Astrology (7 Apps)</b></summary>
+<summary><b>💊 Health, Social & Astrology (13 Apps)</b></summary>
 - **Infinum Growth (Doctor/Patient):** Healthcare platform.
-- **Olympus Wellness:** Progress tracking. [Play Store](https://play.google.com/store/apps/details?id=in.olympuswellness)
+- **Olympus Wellness:** Progress tracking.
 - **Ifitmash:** Nutrition & health monitor.
+- **Vpeep Me / Vpops / Vpeeps:** Social & Marketing.
 - **Analyst Ji:** Astrology consultations.
+- **Waysss:** Video-sharing platform.
+- **Mirage Edge:** Immersive social lounge.
 </details>
 
 ---
 
-### 📈 Development Activity & Metrics
+### 📊 GitHub Activity & Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhi250996&show_icons=true&theme=tokyonight&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=F8FAFC&bg_color=1E3A8A" width="48%" />
@@ -123,15 +163,8 @@ I am a high-impact **Software Engineer** with 4+ years of experience and a track
 
 ---
 
-### 🐍 Contribution Journey
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abhi250996/Abhi250996/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
----
-
 ### 🤝 Connect & Collaborate
-- 📍 **Based in:** Noida, UP, India
+- 📍 **Location:** Noida, Uttar Pradesh, India
 - 📞 **Direct:** [+91 7376233746](tel:7376233746)
 - 📧 **Email:** [developer.abhishek25@gmail.com](mailto:developer.abhishek25@gmail.com)
 
