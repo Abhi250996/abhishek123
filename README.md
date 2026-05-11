@@ -20,43 +20,42 @@ Results-driven **Senior Developer** with a 4-year tenure of engineering excellen
 - 🎯 **Leadership:** Expert in Clean Architecture, BLoC, and CI/CD pipelines.
 
 ---
----
-### 📱 Premier Project Gallery (The "Featured 15")
+---### 📱 Premier Project Gallery (The "Featured 15")
 *A thematic showcase of 15 selected projects from a total portfolio of 27+ shipped solutions.*
 
 <table border="0">
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/3063/3063176.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2750/2750657.png" width="70px"/><br/>
       <b>🏥 Infinum Growth</b><br/>
       <small>Enterprise health bridge with real-time patient data tracking.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.infinumgrowth.customer"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2503/2503504.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5261/5261037.png" width="70px"/><br/>
       <b>⛳ Jaypee Golf</b><br/>
       <small>Luxury real-time booking engine for premier golf destinations.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.jaypeegreens.golf"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2316/2316040.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/411/411712.png" width="70px"/><br/>
       <b>🚚 Saysoe Driver</b><br/>
       <small>End-to-end logistics with real-time GPS & fleet analytics.</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/950/950714.png" width="70px"/><br/>
       <b>📊 Jilit CRM</b><br/>
       <small>Full-scale CRM with lead lifecycles & sales pipelines.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="70px"/><br/>
       <b>🤖 MCQ AI Generator</b><br/>
       <small>LLM-powered engine generating contextual assessments.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2902/2902094.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3252/3252906.png" width="70px"/><br/>
       <b>⚖️ Bail Hotline</b><br/>
       <small>Legal fintech platform connecting defendants with bondsmen.</small><br/>
       <a href="https://play.google.com/store/search?q=BAILHOTLINE&c=apps"><b>【 Deployment 】</b></a>
@@ -64,37 +63,37 @@ Results-driven **Senior Developer** with a 4-year tenure of engineering excellen
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2997/2997314.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/8066/8066601.png" width="70px"/><br/>
       <b>🎓 JIIT Scholar</b><br/>
       <small>Ed-tech platform serving 10,000+ university users.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=ac.in.jiit.student.jiit_student"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2983/2983803.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/8814/8814392.png" width="70px"/><br/>
       <b>🏨 F9 Hotels</b><br/>
       <small>Global hospitality inventory & reservation manager.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/1260/1260312.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/9334/9334531.png" width="70px"/><br/>
       <b>🪪 Digital Cards</b><br/>
       <small>Smart networking through NFC & QR profile integration.</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/3503/3503816.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/9482/9482933.png" width="70px"/><br/>
       <b>📜 Unibiz Compliance</b><br/>
       <small>Automated tracking for legal & corporate compliance.</small><br/>
       <a href="https://unibizcompliance.com/"><b>【 Website 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3214/3214744.png" width="70px"/><br/>
       <b>🌐 Vpeep Me</b><br/>
       <small>Scalable social hub with advanced media sharing features.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.vpeep.me"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2913/2913520.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2301/2301145.png" width="70px"/><br/>
       <b>🌿 Olympus</b><br/>
       <small>Wellness tracker focusing on bio-metrics & habit coaching.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=in.olympuswellness"><b>【 Deployment 】</b></a>
@@ -102,17 +101,17 @@ Results-driven **Senior Developer** with a 4-year tenure of engineering excellen
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/3221/3221803.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/4406/4406124.png" width="70px"/><br/>
       <b>🎥 Waysss</b><br/>
       <small>Low-latency social video platform using WebRTC.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2593/2593468.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="70px"/><br/>
       <b>🏢 JapCom</b><br/>
       <small>Secure encrypted internal communication suite.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2964/2964514.png" width="60px"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3843/3843033.png" width="70px"/><br/>
       <b>🏋️ Atium</b><br/>
       <small>Performance monitoring for professional athlete training.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.atium"><b>【 Deployment 】</b></a>
