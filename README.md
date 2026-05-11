@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=1E3A8A&height=200&section=header&text=Abhishek%20Sharma&fontSize=70&animation=fadeIn&fontColor=F8FAFC" />
 
-  ### 📱 Senior Flutter Developer | React Enthusiast
-  **Crafting Scalable Enterprise Solutions & High-Performance Mobile Ecosystems**
+  ### 📱 Senior Flutter Developer | React & Node.js
+  **Building Scalable Healthcare, CRM & Enterprise Mobile Solutions**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-sharma-bb0ab128b)
   [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishek-77d4a.web.app/)
@@ -11,50 +11,68 @@
 
 ---
 
-### 👨‍💻 Engineering Profile
+### 👨‍💻 Professional Summary
 
-I am a **Software Developer** with over 3 years of experience specializing in the **Flutter** ecosystem and modern web technologies like **React** and **Node.js**. My work focuses on building complex production systems including **Hospital Management Systems (HMS)**, AI-powered engineering tools, and large-scale booking platforms.
+I am a **Software Developer** with 3+ years of experience in the **Flutter** ecosystem. I specialize in turning complex business requirements—from **Hospital Management Systems** to **Real-time Booking Platforms**—into high-performance mobile applications.
 
-- 🏗️ **Architecture:** Expert in Clean Architecture, BLoC, and GetX.
-- ⚙️ **Full-Stack:** Proficient in building robust Admin Dashboards and RESTful APIs.
-- 🤖 **AI Innovation:** Integrating OpenAI for automated blueprinting and civil engineering tools.
+- 🚀 **Core Expertise:** Flutter, Dart, React, Node.js, and Express.
+- 🏗️ **Architecture:** Clean Architecture, BLoC, and GetX for enterprise scalability.
+- 🤖 **Innovation:** Implementing AI-driven tools for Civil Engineering blueprinting.
 
 ---
 
-### 📱 Featured Live Applications
+### 📱 Live Production Projects
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🏥 Healthcare & Wellness</h4>
-      <img src="https://market-resized.envatousercontent.com/previews/files/480098638/previewe.jpeg?w=590&h=300&cf_fit=crop&crop=top&format=auto&q=85&s=e224ca3189c9dd38bc1e9fe2e498ecdad79afcc4d7ad9c46c26334b3d79eb5d9" width="100%" />
-      <p><b>Infinum Growth / Olympus Wellness</b><br/>
-      End-to-end healthcare ecosystems featuring real-time appointment scheduling and fitness tracking.</p>
-      <a href="https://play.google.com/store/apps/details?id=com.infinumgrowth.customer"><b>View on Store</b></a>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/premium-vector/online-medical-consultation-app-interface_23-2148530435.jpg" width="100%"/><br/>
+      <b>🏥 Infinum Growth</b><br/>
+      <i>Healthcare & Wellness</i><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.infinumgrowth.customer">【 View App 】</a>
     </td>
-    <td width="50%" valign="top">
-      <h4>⛳ Booking & Enterprise</h4>
-      <img src="https://img.freepik.com/premium-psd/golf-club-booking-app-ui-kit_553413-493.jpg" width="100%" />
-      <p><b>Jaypee Golf Booking</b><br/>
-      High-traffic slot reservation system with real-time inventory management and scheduling.</p>
-      <a href="https://play.google.com/store/apps/details?id=com.jaypeegreens.golf"><b>View on Store</b></a>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/premium-psd/fitness-app-interface-mockup_23-2149114138.jpg" width="100%"/><br/>
+      <b>🏋️ Atium Performance</b><br/>
+      <i>Athletic Analytics</i><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.atium">【 View App 】</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/free-vector/online-university-education-app-interface_23-2148560341.jpg" width="100%"/><br/>
+      <b>🎓 JIIT Scholar</b><br/>
+      <i>Academic Portal</i><br/>
+      <a href="https://play.google.com/store/apps/details?id=ac.in.jiit.student.jiit_student">【 View App 】</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Social & Interaction</h4>
-      <img src="https://img.freepik.com/premium-psd/smartphone-mockup-with-social-media-post-interface-mockup-social-media-mobile-app-page-template-design-user-carousel-post-feed-mobile-app-interface-template-social-network_28616-2633.jpg" width="100%" />
-      <p><b>Vpeep Me</b><br/>
-      Performance-optimized social platform focusing on community engagement and interaction.</p>
-      <a href="https://play.google.com/store/apps/details?id=com.vpeep.me"><b>View on Store</b></a>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/free-vector/wellness-app-interface-template_23-2148520335.jpg" width="100%"/><br/>
+      <b>🌿 Olympus Wellness</b><br/>
+      <i>Health Tracking</i><br/>
+      <a href="https://play.google.com/store/apps/details?id=in.olympuswellness">【 View App 】</a>
     </td>
-    <td width="50%" valign="top">
-      <h4>🏃 Performance & Athletics</h4>
-      <img src="https://cdn.dribbble.com/userupload/43552794/file/original-9f6bc943ae2ba780b844ce7c0aa25565.png" width="100%" />
-      <p><b>Atium Performance</b><br/>
-      Advanced analytics platform for athletes to track and optimize workout intelligence.</p>
-      <a href="https://play.google.com/store/apps/details?id=com.atium"><b>View on Store</b></a>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/free-vector/legal-services-app-interface_23-2148540321.jpg" width="100%"/><br/>
+      <b>⚖️ Bail Hotline</b><br/>
+      <i>Legal Assistance</i><br/>
+      <a href="https://play.google.com/store/search?q=BAILHOTLINE&c=apps">【 View App 】</a>
     </td>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/premium-psd/social-media-app-interface-mockup_23-2149114140.jpg" width="100%"/><br/>
+      <b>🌐 Vpeep Me</b><br/>
+      <i>Social Networking</i><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.vpeep.me">【 View App 】</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%">
+      <img src="https://img.freepik.com/premium-psd/golf-club-booking-app-ui-kit_553413-493.jpg" width="100%"/><br/>
+      <b>⛳ Jaypee Golf Booking</b><br/>
+      <i>Real-time Reservations</i><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.jaypeegreens.golf">【 View App 】</a>
+    </td>
+    <td align="center" width="33%"></td>
   </tr>
 </table>
 
@@ -63,17 +81,17 @@ I am a **Software Developer** with over 3 years of experience specializing in th
 ### 🛠️ Specialized Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-1E3A8A?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-3B82F6?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
 ---
 
-### 📊 GitHub Insights
+### 📈 Metrics & Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhi250996&show_icons=true&theme=tokyonight&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=F8FAFC&bg_color=1E3A8A" width="48%" />
