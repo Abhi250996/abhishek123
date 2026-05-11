@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=3B82F6&height=250&section=header&text=Abhishek%20%20Sharma&fontSize=70&animation=fadeIn&fontColor=F8FAFC" />
 
-  <div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; border: 5px solid #3B82F6; margin-top: -90px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);">
-    <img src="https://img.freepik.com/premium-photo/man-with-glasses-purple-background-with-picture-man-with-glasses-his-face_1221953-80174.jpg?semt=ais_hybrid&w=740&q=80" style="width: 100%; height: 100%; object-fit: cover;" alt="Abhishek Sharma - Senior Flutter Architect" />
-  </div>
+  <img src="https://img.freepik.com/premium-photo/man-with-glasses-purple-background-with-picture-man-with-glasses-his-face_1221953-80174.jpg?semt=ais_hybrid&w=740&q=80" width="130px" style="border-radius: 50%; border: 5px solid #E5E7EB; margin-top: -65px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" alt="Abhishek Sharma" />
 
-  <br/>
+  <br/><br/>
 
   ## ⚡ Senior Software Engineer | Flutter & React Architect
   **Engineering Scalable, Production-Grade Mobile & Web Ecosystems**
@@ -114,7 +112,7 @@ I am a high-impact **Senior Software Engineer** with over **5 years of experienc
   
   💬 **Call/WhatsApp:** [+91 7376233746](tel:7376233746) · ✉️ **Email:** [developer.abhishek25@gmail.com](mailto:developer.abhishek25@gmail.com)
   
-  📍 **Location:** Noida, Uttar Pradesh, India · Open to remote roles worldwide
+  📍 **Location:** Noida, India · Open to remote roles worldwide
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Abhi250996&label=PROFILE+VIEWS&color=3B82F6&style=flat" />
