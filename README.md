@@ -1,121 +1,102 @@
-Use this as your profile `README.md`.
-
-Just replace:
-
-* `YOUR_USERNAME`
-* LinkedIn link
-* email
-* portfolio (if any)
-
-Then paste into your special GitHub profile repository.
-
 ```md
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 
 <h3 align="center">
-Flutter Developer with 3+ years of experience building scalable mobile applications
+Flutter Developer | 3+ Years Experience
 </h3>
 
 <p align="center">
-Building Healthcare, CRM, Booking, Wellness & Enterprise Applications using Flutter
+Building Scalable Healthcare, CRM, Booking & Enterprise Applications using Flutter
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💼 Flutter Developer with real-world production experience
-- 📱 Building scalable cross-platform mobile applications
-- 🏗️ Experienced in clean architecture and modular project structures
-- ⚡ Skilled in Flutter, Dart, Firebase, REST APIs, and GetX
-- 🎯 Focused on performance optimization and reusable UI systems
-- 🌱 Currently exploring advanced Flutter architecture and scalable systems
+- 📱 Developed and maintained multiple live production applications
+- 🏗️ Experienced in scalable architecture and reusable UI systems
+- ⚡ Skilled in Flutter, Dart, Firebase, REST APIs & GetX
+- 🎯 Focused on performance optimization and clean code architecture
+- 🌱 Exploring advanced Flutter architecture & scalable systems
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p align="left">
 
-### State Management
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 
-### Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+</p>
 
 ---
 
-# 📌 Featured Projects
+# 📱 Live Production Applications
 
 ## 🏥 Infinum Growth
-Customer-facing healthcare platform for booking appointments, managing growth programs, and tracking personalized health plans.
+Healthcare & personal growth platform for appointments, counselling, wellness programs, and self-improvement.
 
-### Features
-- Appointment Booking
-- Health Program Tracking
-- User Dashboard
-- Notifications
-- Responsive UI
+🔗 https://play.google.com/store/apps/details?id=com.infinumgrowth.customer
 
 ---
 
 ## 🏋️ Atium
-All-in-one performance intelligence platform helping athletes and coaches plan, schedule, and track workouts.
+Performance intelligence platform helping athletes and coaches track workouts and analytics.
 
-### Features
-- Workout Scheduling
-- Performance Analytics
-- Training Dashboard
-- Progress Tracking
-- Data Visualization
-
----
-
-## ⛳ Jaypee Golf Booking
-Online golf course booking platform with real-time slot availability and reservation management.
-
-### Features
-- Real-time Slot Booking
-- Reservation System
-- Calendar Integration
-- Payment Workflow
-- Booking Management
-
----
-
-## 📊 Jilit CRM
-Customer relationship management platform for managing leads, pipelines, and business analytics.
-
-### Features
-- Lead Management
-- Sales Pipeline
-- Customer Tracking
-- Dashboard Analytics
-- Business Reports
+🔗 https://play.google.com/store/apps/details?id=com.atium
 
 ---
 
 ## 🎓 JIIT Scholar Online
-Academic portal for students to access results, attendance, records, and notifications.
+Academic portal for attendance, results, notifications, and student services.
 
-### Features
-- Attendance Tracking
-- Academic Records
-- Notifications
-- Dashboard
-- Student Services
+🔗 https://play.google.com/store/apps/details?id=ac.in.jiit.student.jiit_student
 
 ---
 
-## 💡 Flutter Expertise
+## 🌿 Olympus Wellness
+Health and wellness application with personalized fitness and wellness tracking.
+
+🔗 https://play.google.com/store/apps/details?id=in.olympuswellness
+
+---
+
+## ⚖️ Bail Hotline
+Legal assistance platform helping users connect with bail services quickly.
+
+🔗 https://play.google.com/store/search?q=BAILHOTLINE&c=apps
+
+---
+
+## 🌐 Vpeep Me
+Social networking platform for connecting and interacting through shared interests.
+
+🔗 https://play.google.com/store/apps/details?id=com.vpeep.me
+
+---
+
+## ⛳ Jaypee Golf Booking
+Golf course booking platform with real-time slot reservation and scheduling.
+
+🔗 https://play.google.com/store/apps/details?id=com.jaypeegreens.golf
+
+---
+
+# 💡 Flutter Expertise
 
 ✔ Clean Architecture  
 ✔ GetX State Management  
@@ -124,13 +105,14 @@ Academic portal for students to access results, attendance, records, and notific
 ✔ Responsive UI Design  
 ✔ Reusable Widgets  
 ✔ Dashboard Systems  
-✔ Booking Systems  
 ✔ CRM Applications  
+✔ Booking Platforms  
+✔ Enterprise Mobile Applications  
 ✔ Performance Optimization  
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
@@ -140,9 +122,13 @@ Academic portal for students to access results, attendance, records, and notific
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
 - 📧 Email: yourmail@gmail.com
@@ -150,7 +136,7 @@ Academic portal for students to access results, attendance, records, and notific
 
 ---
 
-<p align="center">
-⭐ Building scalable Flutter applications with clean architecture and modern UI systems
-</p>
+<h3 align="center">
+⭐ Building scalable Flutter applications with clean architecture & modern UI systems
+</h3>
 ```
