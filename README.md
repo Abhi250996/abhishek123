@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=3B82F6&height=250&section=header&text=Abhishek%20%20Sharma&fontSize=70&animation=fadeIn&fontColor=F8FAFC" />
 
-  <br/>
-  
-  <img src="https://img.freepik.com/premium-photo/man-with-glasses-purple-background-with-picture-man-with-glasses-his-face_1221953-80174.jpg?semt=ais_hybrid&w=740&q=80" width="180px" style="border-radius: 50%; border: 4px solid #3B82F6;" alt="Abhishek Sharma - Senior Flutter Architect" />
+  <div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; border: 5px solid #3B82F6; margin-top: -90px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);">
+    <img src="https://img.freepik.com/premium-photo/man-with-glasses-purple-background-with-picture-man-with-glasses-his-face_1221953-80174.jpg?semt=ais_hybrid&w=740&q=80" style="width: 100%; height: 100%; object-fit: cover;" alt="Abhishek Sharma - Senior Flutter Architect" />
+  </div>
 
-  <br/><br/>
+  <br/>
 
   ## ⚡ Senior Software Engineer | Flutter & React Architect
   **Engineering Scalable, Production-Grade Mobile & Web Ecosystems**
