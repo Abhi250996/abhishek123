@@ -23,30 +23,29 @@ Results-driven **Senior Developer** with a 4-year tenure of engineering excellen
 
 ### 📱 Premier Project Gallery (The "Featured 15")
 *A thematic showcase of 15 selected projects from a total portfolio of 27+ shipped solutions.*
-
 <table border="0">
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://skillicons.dev/icons?i=postman" width="50px"/><br/>
+      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/100/external-Health-round-icons-flat-icons-inmotus-design.png" width="50px"/><br/>
       <b>🏥 Infinum Growth</b><br/>
       <small>Telemedicine ecosystem bridging high-concurrency patient-doctor data.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.infinumgrowth.customer"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/golf-icon.png" width="50px"/><br/>
       <b>⛳ Jaypee Golf</b><br/>
       <small>Luxury reservation engine with real-time slot booking & GPS integration.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.jaypeegreens.golf"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/truck.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/delivery.png" width="50px"/><br/>
       <b>🚚 Saysoe Driver</b><br/>
       <small>Logistics & fleet automation with low-latency route optimization.</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/users.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/organization.png" width="50px"/><br/>
       <b>📊 Jilit CRM</b><br/>
       <small>Enterprise sales lifecycle tracker & lead management dashboard.</small>
     </td>
@@ -56,7 +55,7 @@ Results-driven **Senior Developer** with a 4-year tenure of engineering excellen
       <small>Automated intelligence system for generating academic assessments.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/gavel.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/law.png" width="50px"/><br/>
       <b>⚖️ Bail Hotline</b><br/>
       <small>Legal-tech application facilitating rapid-response legal interventions.</small><br/>
       <a href="https://play.google.com/store/search?q=BAILHOTLINE&c=apps"><b>【 Deployment 】</b></a>
@@ -64,37 +63,37 @@ Results-driven **Senior Developer** with a 4-year tenure of engineering excellen
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/graduation-cap.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/education.png" width="50px"/><br/>
       <b>🎓 JIIT Scholar</b><br/>
       <small>Academic portal managing records for 10k+ active university students.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=ac.in.jiit.student.jiit_student"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/hotel.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/hotel.png" width="50px"/><br/>
       <b>🏨 F9 Hotels</b><br/>
       <small>Cross-platform booking engine for premium hospitality properties.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/contact-2.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/contactless-cards.png" width="50px"/><br/>
       <b>🪪 Digital Cards</b><br/>
       <small>Contactless networking solution via NFC/QR profile syncing.</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/file-check.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/verified-badge.png" width="50px"/><br/>
       <b>📜 Unibiz Comp.</b><br/>
       <small>Automated compliance engine for corporate regulatory tracking.</small><br/>
       <a href="https://unibizcompliance.com/"><b>【 Website 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/globe-2.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/world-map--v2.png" width="50px"/><br/>
       <b>🌐 Vpeep Me</b><br/>
       <small>Scalable social hub with advanced media sharing & concurrency.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.vpeep.me"><b>【 Deployment 】</b></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/leaf.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/spa.png" width="50px"/><br/>
       <b>🌿 Olympus</b><br/>
       <small>Holistic wellness tracker focusing on bio-metrics & habit change.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=in.olympuswellness"><b>【 Deployment 】</b></a>
@@ -102,17 +101,17 @@ Results-driven **Senior Developer** with a 4-year tenure of engineering excellen
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/video.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/video-call.png" width="50px"/><br/>
       <b>🎥 Waysss</b><br/>
       <small>Next-gen social video platform using low-latency WebRTC tech.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/message-square.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/private-chat.png" width="50px"/><br/>
       <b>🏢 JapCom</b><br/>
       <small>Encrypted internal communication suite for high-security firms.</small>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/dumbbell.svg" width="40px" height="40px"/><br/>
+      <img src="https://img.icons8.com/fluency/100/bench-press.png" width="50px"/><br/>
       <b>🏋️ Atium</b><br/>
       <small>High-performance athlete monitoring & training data analytics.</small><br/>
       <a href="https://play.google.com/store/apps/details?id=com.atium"><b>【 Deployment 】</b></a>
